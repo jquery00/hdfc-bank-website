@@ -1,0 +1,18 @@
+/* Add CSS styles for HDFC Bank web page */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #0046ad;
+  text-align: center;
+}
+
+p {
+  color: #333;
+  text-align: center;
+}
